@@ -1,0 +1,93 @@
+/* ========================================================================================= */
+/* ===================================== color #0487CC ==================================== */
+/* ========================================================================================= */
+
+a,
+.btn_close_port{
+    color: #0487CC;
+    text-decoration: none;
+}
+
+.my_profile .info_profile h2,
+.section-header h3,
+.attributes span.glyphicon, 
+.attributes h6 {
+	color: #0487CC;
+}
+
+a:hover,
+.single-portfolio .content .portfolio-sidebar div a:hover {
+	color: #0487CC;
+	text-decoration: none;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+.preloader .spinner .dot1,
+.preloader .spinner .dot2,
+.bg_info {
+    background: #0487CC;
+}
+.navigation > ul > li:before {
+	content: '';
+	position: absolute;
+	top: 0px;
+	width: 0%;
+	height: 100%;
+	left: 0px;
+	background: #0487CC;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+
+.navigation > ul > li:hover:before ,
+.navigation > ul > li.active:before {
+	color:#fff;
+	content: '';
+	width: 100% !important;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+
+.portfolios  .view-first a.open-imag:hover, 
+.portfolios  .view-first a.external:hover,
+#genre-filter li:hover span,
+#genre-filter li span.active,
+.single-portfolio .fc-page-title-breadcrumbs,
+.single-portfolio .content .portfolio-nav ul li a:hover {
+    background: #0487CC;
+    -moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}	
+.btn_close_port:hover{
+    background: #0379b7;
+	color: #fff;
+    -moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+
+.title_content:after, .icon_content,
+#header #menu_closed {
+  background-color: #0487CC;
+}
+
+#resume .resume-left ul li h5 {
+	  border-bottom: 1px solid #0487CC; 
+}
+
+h2.section_title {
+	background-color: #0487CC;
+	border-right: 5px solid #036ca3;
+}
+.title-section .sep2 {
+  background: #0487CC;
+}
