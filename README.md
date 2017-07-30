@@ -1,2 +1,2 @@
-# personal-page
-My personal page
+# My Personal Page
+A personal portfolio site
