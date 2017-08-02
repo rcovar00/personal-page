@@ -1,2 +1,2 @@
-# personal-page
-My personal page - www.rcovar00.me
+# My Personal Page
+A personal portfolio site
